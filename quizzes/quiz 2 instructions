@@ -1,0 +1,10 @@
+
+1)
+sum up the numbers between 250 and 180,000
+
+
+2)
+create a colors array
+prompt user to enter a color or quit
+add all colors into the colors array
+display coloes entered upon exit
