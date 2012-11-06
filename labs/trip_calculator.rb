@@ -19,9 +19,8 @@ money_remaining = total_money - cost_of_trip
 hours_of_trip = (total_mileage / driving_speed)
 
 if(cost_of_trip >= total_money)
-	puts "Sorry, you do not have enough money for the trip."
+	puts "Sorry, you do not have enough money for the trip." 
 
 else
 	puts "You will have $#{money_remaining.round(2)} when you arrive in #{hours_of_trip} hours"
-
 end

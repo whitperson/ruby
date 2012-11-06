@@ -1,0 +1,16 @@
+Subway Helper
+
+The stops for these trains: 
+The N train = times square, 34th, 28th, 23rd and union square 
+The L train = 8th, 6th, union square, 3rd and 1st 
+The 6 train = grand central, 33rd, 28th, 23rd and union square
+
+Part I Ask the user a train:  example N 
+Ask the user where they want to get on:  example times square A
+sk the user where they want to get off:  example 23rd
+Tell them it will take 3 stops. 
+
+Part II Same as Part I, except that they can get off on a different train from where they started.
+Example: They get on the N at times square and go to the 6 train up to grand central, this would be 8 stops total.
+
+if 28th -- ask for second stop
