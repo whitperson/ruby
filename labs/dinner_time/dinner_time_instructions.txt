@@ -1,0 +1,38 @@
+
+LAB - Dinner
+
+dinner = []
+w/ protein and carb objects
+
+
+
+Classes:
+Foods -- calories, servings, preptime, to_s
+
+Protein -- animal type
+Carb -- grain_type
+
+
+calories is item
+how long it'll take
+
+METHODS/ATTRS
+
+calories per serving - 200
+number of servings  - #
+grain_type - white, whole, multi
+animal_type - beef, pork, fish
+prep time - 50 min
+to_s
+
+
+p1
+
+OUTPUT:
+1)
+What are total calories of this meal? 
+
+2)
+what is total prep time for this meal?
+
+
