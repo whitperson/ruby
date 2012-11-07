@@ -2,6 +2,11 @@
 1)
 sum up the numbers between 250 and 180,000
 
+numbers = 250.upto(180,000).to_a
+	numbers.each do |number|
+	puts "#{number}"
+end
+
 
 2)
 create a colors array
