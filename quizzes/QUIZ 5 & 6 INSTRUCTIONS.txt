@@ -1,0 +1,35 @@
+
+QUIZ 5 & 6 INSTRUCTIONS
+
+Son Daughter
+Father Mother
+Uncle Cousin
+Grandmother
+
+create 7 classes (in one file)
+
+figure out inheritance hierarchy
+
+~~~~
+
+class Grandmother
+
+end
+
+class Father < Grandmother
+
+end
+
+class Mother < Grandmother
+
+end
+
+
+~~~~
+
+take numbers between 250 and 750 
+
+show only the odd numbers
+
+sum these numbers
+
