@@ -1,0 +1,34 @@
+QUIZ INSTRUCTIONS - QUIZ 7, 8, 9
+
+Quiz 7:
+Play class
+	
+	walk (instance method)
+
+	run (class method) 
+
+	call walk " I am walking" 
+
+~~~
+
+Quiz 8
+Classes 
+A
+B
+C
+
+modules m1, m2 that need to be incjected
+
+
+~~~~
+
+Quiz 9 - 
+
+Math.factorial(n)
+(ex. Math.factorial(5) = 120 )
+
+equals 5 * 4 * 3 * 2 * 1
+
+Math class
+
+factorial function
