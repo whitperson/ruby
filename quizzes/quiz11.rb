@@ -1,17 +1,14 @@
 require 'pry'
 require 'test/unit'
 
-class MyTest < Test::Unit::TestCase
-     def test_simple
-         assert_equal(11, 11) 
-     end
-end
-
 class MyString
 	def self.length(t)
-		t.length
+		t.to_s.length #defined length of  string to be tested
 	end
 end
 
-n = MyString.length('Hello World')
-test_simple(n)
+class MyTest < Test::Unit::TestCase
+	def test_length
+		assert_equal(11, MyString.length('Hello World')) # compares length of string t (or 'Hello World') to 11
+	end
+end
